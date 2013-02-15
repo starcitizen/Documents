@@ -44,3 +44,4 @@ Mahony hastete zu dem großen Teil der Ausrüstung, die in der Mitte des Raumes 
 Wegen seiner Form und Leitungssensoren konnte kein Zweifel bestehen.
 Es war eine Bombe.
 
+Übersetzer: Vagabound - www.werde-star-citizen.de
