@@ -1,4 +1,4 @@
-Die Hülle der P52 schrie vom Sog des Zwischenraumes. Alles war verwischt. Die Geräusche wechselten zwischen einer schreienden Turbine und absoluter Ruhe hin und her. Der Steuerbordflügel wurde zerdrückt und riss schließlich ab. Das Heck der Caterpillar war manchmal sichtbar und manchmal außerhalb der Sicht. Cal kämpfte mit seinem Schiff, um auf der Spur der Caterpillar zu bleiben. Es musste gelingen oder es war das Ende.
+#Ersten Absatz gelöscht -gule
 *  *  *  *  *
 Die UEE Zollstation am Sprung-Punkt von Ferron im Banu Protektorat war heute besonders überlastet. Der Zollbeamte starrte auf die Manifestation der Monotonie, eine unendliche Reihe von Schiffen, Schleppern und Transportern so weit das Auge sehen konnte.
 Er brauchte einen Moment, um Frieden mit diesem langweiligen Tag zu schließen, der vor ihm lag, als das erste Schiff nach vorne zu den Scannern flog. Er ließ die Schiff-ID durch die Datenbank laufen, während die Scanbots ihre Arbeit verrichteten.
@@ -45,3 +45,5 @@ Wegen seiner Form und Leitungssensoren konnte kein Zweifel bestehen.
 Es war eine Bombe.
 
 Übersetzer: Vagabound - www.werde-star-citizen.de
+
+Und am Schluss was dazu geschrieben...
