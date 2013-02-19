@@ -1,4 +1,0 @@
-#Die Artemis.
-Im Jahr 2232 gestartet, war dieses sogenannte "Generationenschiff", mit fünftausend im Kälteschlaf befindlichen Seelen, auf dem Weg nach GJ 667Cc. Kommandiert von Janus, einem KI-Core. Es war die erste Sternenexpedition der Menschheit überhaupt. Doch wir verloren den Kontakt, kurz nachdem sie unser Sonnensystem verlassen hatten, und sich auf den Weg in den unbekannten Raum machten.
-So vieles hatte sich seit diesem Tag verändert; Sprungpunkte, Erstkontakte, sowie überragende Leistungen und Tragödie in ausgeglichenen Ausmaß. Trotz Hunderter Expeditionen, Studien und Simulationen die im Laufe der Jahrhunderte durchgeführt wurden, hatte niemand sie jemals gefunden. Viele gingen davon aus, dass sie abgestürzt, in einen Stern geflogen, oder in einem Sprung-Punkt gezogen worden war. So wurde die Artemis zur Legende.
-Bis jetzt ...
