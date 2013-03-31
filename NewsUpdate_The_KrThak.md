@@ -1,3 +1,5 @@
+Das hat Gule geschrieben...
+
 Nachrichten Update: Die Kr’Thak
 (Übersetzung: Wizard)
 
