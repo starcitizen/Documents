@@ -1,0 +1,271 @@
+Vorwort:
+Ich Grüße alle Star Citizen-Fans!
+Wenn ihr meine Übersetzung auf Eurer Homepage oder Community übernehmen wollt, gebt bitte den Urheber und die Quelle dorthin an. Das gebietet einfach dem guten Anstand und würdigt dem Übersetzer, der viele Stunden daran gesessen hat,
+um dieses Dokument den vielen Nicht-Englisch sprechenden Fans zugänglich zu machen – vielen Dank!
+
+In diesem Fall wäre dies:
+SpaceCrawler
+www.star-citizen-hq.de
+
+Und nun wünsche ich Euch viel Spaß beim lesen und staunen! :)
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+Technik: Schiffskomponenten und Systeme
+
+
+Raumschiffe sind das Herzstück von Star Citizen. Und dein eigenes Schiff wird das Herz deiner eigenen Star Citizen-Erfahrung sein. Es wird dein Zuhause, die Art wie du Waren transportierst, deine Verteidigungslinie gegen Piraten und Vanduhl-Angreifer und der Gefahr des Vakuums selbst sein... und im weiteren, Ausdruck deines eigenen Styles und Spielweise.
+Jeder Science-Fiction-Fan hat schon mal davon geträumt, einen eigenen Millenium-Falken zu tunen und aufzurüsten, die einzelnen Stationen auf der Brücke der USS Enterprise mit Mannschaft zu besetzen, sich in Abenteuer im Weltraum zu stürzen und gegen feindliche Mächte und mysteriöse Aliens zu kämpfen.
+Solche Fantasien treffen den Kern unseres Schiffs-Anpassungssystem: Wenn du ein Schiff baust, soll es sich auch anfühlen wie dein eigenes ganz individuelles Schiff – nicht bloß wie eine einfache Kopie einer anderen Aurora oder Freelancer der du begegnest. Du wirst ein Gefühl von Stolz empfinden, wenn du dein Schiff steuerst - zu wissen, obwohl es viele andere, ähnliche Schiffe gibt, dieses, dein eigenes jedoch einzigartig im Universum ist.
+
+
+Um das zu erreichen, haben wir viel Zeit darin investiert, vom ersten Schiffsdokument, das wir in der Spendenkampagne vorgestellt haben, ins Detail zu gehen. Wir haben herausgearbeitet, was ein Raumschiff ausmacht, wie sie aus- und aufgerüstet werden und wie wir sie in Balance mit anderen Schiffen bringen. Da gibt es noch eine Menge zu tun, wir sind jetzt jedoch weit genug, um euch eine Vorstellung davon zu geben, wie diese Schiffssysteme funktionieren.
+
+
+Kämpfe werden in Star Citizen schnelllebig sein und vom Können des Piloten abhängen. Da gibt es keinen „Auto-Angriffsmodus“ oder zufällige Ausweichmanöver, um sich den Weg zum Ziel zu „erkaufen“.
+Eine der wichtigsten Regeln, die es sich zu merken gilt ist: Die teuersten Upgrades müssen nicht unbedingt das optimale Werkzeug für die gewünschte Aufgabe sein und dass auch das Best-Ausgestattete Schiff durch ein schwächeres, jedoch mit einem besseren Piloten geschlagen werden kann. Unser Job war es, diese Versprechungen zu berücksichtigen und umzusetzen: Ein Schiff so bauen zu können, damit es den Eigenen Vorlieben und Vorstellungen entspricht, anstatt ein Schiff, das in allen Belangen die besten Allround-Optionen bietet.
+
+
+Wir haben uns dazu entschieden, dass die Spielweise verschiedene Herangehensweisen an bestimmte Ziele fordert – es muss nicht unbedingt sein, dass eine Klasse-2 Laserkanone besser als eine der Klasse-1 ist. Tatsache ist, dass du in Star Citizen nirgends den Begriff „Level“ finden wirst, außer vielleicht, wenn Du vor einem Aufzug stehst...
+Einer der Vorteile dafür ist, dass es keinerlei „Skillen“ oder „hochleveln“ im Spiel gibt.
+Alle Dinge im Spiel haben ihren Sinn und ihre Berechtigung – Sie alle erfüllen einen bestimmten Zweck oder Aufgabe. In vielerlei Hinsicht hat unser Ausrüstungs-System weit mehr mit einem der alt-bekannten Brett-Kampfsimulationen gemeinsam, als mit heutigen modernen Fantasy-MMO´s.
+
+
+Das soll nicht heißen, dass alle Laser- oder Neutronenkanonen gleich sind, es wird verschiedene ´Grade´ an Ausrüstungen geben. Wie im echten Leben wird es Unternehmen geben, die einfache, billige Basisversionen herstellen, während andere Firmen wiederum speziellere und hochwertigere Produkte herstellen, die dann auch schwieriger zu bekommen sind. So hast du die Wahl zwischen günstigen und überall verfügbaren Lasern, die leichter zu Bruch gehen, mehr Hitze erzeugen und wenig effizient sind... oder der Handgefertigten, technisch hochwertigen Version aus deutscher Fertigung von einem angesehenen Waffenhersteller, dessen erhöhte Effizienz und Zuverlässigkeit den weit höheren Preis rechtfertigt (und du willst gar nicht erst wissen, wie die Laserkanonen vom „Joker“ gebaut wurden und funktionieren!)
+
+
+Worauf das alles im Kern zusammenläuft ist, dass Schiffsmodifikationen ein Spiel mit dem Resource-Management sind, in dem der Spieler den Platzbedarf, Energieverbrauch, Hitzeentwicklung, (Radar-)Signatur, Gewicht, CPU-Resourcen, Haltbarkeit, Kosten und Verfügbarkeit händeln und aufeinander abstimmen muss.
+Wir haben sowohl ein System entwickelt, mit dem du all diese einzelnen Dinge detailliert verwalten kannst, als auch auch ein Übergreifendes Ganzes - das, wenn du willst, ohne dieses Mikromanagement arbeiten wird, während du dich in einem Gefecht befindest.
+
+
+Wir sollten auch erwähnen, dass es unsere Absicht ist, dies alles optional zu machen. Die große Herausforderung im Gamedesign ist dabei, etwas zu erschaffen, das einfach zu erlernen ist, jedoch schwer zu beherrschen - Du wirst nicht tief in die Details einsteigen MÜSSEN, um Star Citizen genießen zu können. Wenn du darauf brennst, einfach rauszufliegen um zu Kämpfen, Erkunden oder zu Handeln, kauf dir ein Standardschiff von der Stange, rüste es mit den nötigsten Schiffserweiterungen aus, die du unbedingt brauchst, und los geht’s.
+
+Wenn du jeden Aspekt der Funktionen deines Schiffs lieber kontrollieren und jedes Element auf Höchstleistung trimmen möchtest, bis es genau für dich richtig ist, dann geben wir dir auch diese Möglichkeit! Wie auch bei allen anderen Dingen in Star Citizen heißt das Schlüsselwort „Du hast die Wahl“: du kannst spielen wie du willst, wir liefern nur die nötigen Werkzeuge. Wir glauben, dass sich viele unserer User für dieses System interessieren werden, da viele von euch auch ihre eigenen PC´s bauen… und das gleiche dann mit dem eigenen Raumschiff zu machen, ist wie der nächste, logische, selbstverständliche Schritt!
+
+
+
+
+
+
+WAS MACHT EIN SCHIFF AUS?
+
+
+
+Hier ein Übersicht einiger Aufhängungen und Ausrüstung, aus denen sich die Schiffe in Star Citizen zusammensetzen:
+
+
+Hülle:
+- An der Hülle können zusätzliche Panzerungsplatten zum verstärken der Schiffshülle installiert werden,
+- die Masse des Schiffes verringert um das Handling des Schiffes zu verbessern,
+- oder den Querschnitt des Schiffes modifizieren, um die Radar-Signatur zu verringern.
+
+
+Reaktor:
+Der Reaktor liefert die Energie, die von den Schiffssystemen benötigt werden. Er ist die Quelle, die alle anderen Schifssysteme mit Energie versorgt.
+
+
+Avionik/Bordelektronik:
+Bezeichnet man den Reaktor als das Herz des Schiffes, dann ist die Bordelektronik das Gehirn. Die Bordelektronik ist zuständig für alle erforderlichen Berechnungen, die für das steuern der Schubdüsen, das identifizieren und verfolgen von Zielen, der automatischen Energieverteilung zu den einzelnen Schiffssystemen und der Sicherstellung der Lebenserhaltungssystems nötig sind. Als einziges System kann die Bordelektronik um weitere Systeme, wie z.Bsp. ITTS, besserer Geschützturm-AI (AI=Künstliche Intelligenz) und einer Vielzahl weiterer Funktionen erweitert werden.
+
+
+Nachbrenner:
+Er erzeugt einen spürbaren Zusatzschub auf Kosten von stark erhöhtem Treibstoffverbrauch
+
+
+Schildgenerator:
+Schilde schützen das Schiff vor umhertreibendem Raumschrott/Partikeln und gegnerischem Beschuss. Schildgeneratoren gibt es in vielerlei Größen und haben in Abhängigkeit der Größe mehrere Schild-Segmente (Ein Segment = ´Blase´ um das gesamte Schiff, mehrere Schildsegmente = Bug/Heck, vierteiliges Schild, usw.)
+
+
+Kollektor:
+Er erlaubt dir, freien Wasserstoff im Vakuum des Alls oder in der äußersten oberen Atmosphäre von Gasriesen zu schöpfen, um deine Kraftstofftanks aufzufüllen.
+
+
+Kraftstofftank:
+Die Kraftstofftanks liefern Masse in Form von Wasserstoff zum Reaktor, der kontinuierlich Energie liefert, um den Brennstoff zu komprimieren um ihn dann in Hochgeschwindigkeit auszustoßen. Wenn dir weit ab von zivilisierten Raum der Treibstoff ausgeht, hoffst du besser, dass du unheimlich viel Glück hast (dein Bordcomputer wird dich jedoch warnen, wenn du den 'Bingo-Treibstoff-Punkt' erreichst – das ist der Punkt, nach dessen überschreiten der Treibstoff nicht mehr ausreicht, um eine freundliche Basis zu erreichen.)
+
+
+Steuerdüsen:
+Steuerdüsen sind kleine Schubdüsen, die die Steuerung nach Oben/Unten/, Rollen Links/Rechts und das seitliche Gieren ermöglichen, und auch die Korrektur des Geschwindigkeitsvektors des Schiffes ermöglichen, um in die Richtung zu fliegen, in die die Nase des Schiffes zeigt (wenn IFCS aktiviert ist). Diese Steuerdüsen können starr an einem bestimmte Platz installiert sein, oder beweglich gelagert, um eine bessere Manövrierbarkeit zu gewährleisten.
+
+
+Antriebsdüsen:
+Sie erzeugen den nötigen Vorwärts-Schub eines Raumschiffes. Wie die Steuerdüsen, können diese ebenfalls starr installiert oder in Verbindung mit einer Schubvektorsteuerung beweglich installiert sein. Schubvektordüsen benötigen eine leistungsfähigere Bordelektronik.
+
+
+Verschiedenes:
+- Waffenbatterien/Zwischenpuffer - um die Wiederaufladung der Energiewaffen zu unterstützen/beschleunigen,
+- Munitionskasetten/Behälter – um mehr Ballistische Munition (Projektilgeschosse) mitführen zu können,
+- Zusätzliche Kühlsysteme – um der Hitzeentwicklung entgegenzuwirken, Signatur verkleinern,
+- Geräte/Module, mit denen man sein Frachtgut vor Scans verborgen halten kann
+- ...und so geht die Liste noch weiter und weiter...
+
+
+Waffenklasse 1:
+Starr nach vorne gerichtete Waffen, die größere Waffensysteme tragen können
+
+Waffenklasse 2:
+Auf einem beweglichen Trägerrahmen montierte Waffen, die über eine Bewegungsachse einen größeren Zielbereich abdecken. Der dadurch vergrößerte Zielbereich geht zu Lasten einer kleineren Waffengröße.
+
+Waffenklasse 3 Aufhängungen:
+An diesen Aufhängungen können eine Vielzahl an Raketenwerfern oder Zusatztanks an der Unterseite des Schiffsrumpfes montiert werden.
+
+Waffenklasse 4 Aufhängungen:
+Üblicherweise zur Installation von Geschütztürmen, bei manchen Schiffen können diese Aufhängungen zur Erweiterung des Frachtraumes oder Installation weiterer Schiffssysteme verwendet werden.
+
+
+RSI-Bild ´Hornet Blueprint´
+Eingefügtes Bild
+
+
+
+
+
+
+
+Resourcen-Management:
+
+
+
+
+Raum (Platzbedarf):
+Als erstes muss das Schiff die passende Aufhängung für ein bestimmtes Teil verfügen und zweitens muss diese Aufhängung genügend Platz dafür bieten. Größere Teile erhöhen generell die Masse des Raumschiffs mehr, als kleinere, und dies wird die Leistung in verschiedener Weise beeinflussen.
+
+
+RSI-Bild ´Systems_Table_1´
+Eingefügtes Bild
+
+
+Ein Beispiel der Aufhängungen und deren Kapazität zweier Hornet-Varianten, die Zivile und die Militärische
+
+
+
+
+
+Energie und Hitzeentwicklung:
+Der Reaktor ist das schlagende Herz des Schiffes. Ohne Energie liegt das Schiff (und somit auch der Pilot) tot im Weltraum. Energie ist das Allerwichtigste, und Piloten sind grundsätzlich der Meinung, nie genug davon zu haben. Mit diesem Wissen im Hinterkopf bleibt es abzuwägen, ob man sich nun eine stärkere Waffe oder ein leistungsfähigeres Haupt-Triebwerk am Schiff installiert.
+
+
+Die verbrauchte Energie erzeugt Hitze, die vom Raumschiff abgeführt werden muss – ähnlich wie bei einem Leistungsstarken Hi-End-PC. Wenn sich das Schiff nicht selbstständig kühlen kann, werden nach und nach die Schiffskomponenten beschädigt. Clevere Piloten installieren daher mehr Kühlsysteme, als das bestehende Minimum, das von der Schiffshülle abgeführt werden kann, um unvorhergesehene Hitze-Spitzen zu kompensieren, die im Raumkampf entstehen können, wenn verschiedene Schiffskomponenten beschädigt sind.
+
+
+
+
+Signatur:
+Alle Schiffe erzeugen eine elektromagnetische Signatur und reflektieren elektromagnetische Wellen die Radial (also Kreisförmig) vom Schiff ausgehen. Diese Signatur wird vom Bordsystem verwendet, um Ziele innerhalb der Operationsreichweite des Bord-Radars zu identifizieren und zu verfolgen. Leistungshungrige Schiffe werden eine viel stärkere EM (Electro Magnetic) Signatur erzeugen, während Schiffe mit minimalem Energieverbrauch unbemerkt durchs All ´schlüpfen´ können. Große Schiffe reflektieren aufgrund ihres größeren Querschnitts mehr Radarwellen zu anderen aktiven Radargeräten zurück. Diese vom Schiff ausgehenden Signaturen werden auch von Zielsuchenden Waffen verwendet, um das Ziel zu erfassen und zu ihrem Ziel zu finden. Die Schiffssignatur ist die wichtigste Angelegenheit für Spieler, die ihre Tarn-Eigenschaften maximieren oder die Zielerfassung durch Raketen verhindern wollen.
+
+
+
+
+Masse:
+Masse ist ein wichtiger Faktor und Einflussgröße, was die Geschwindigkeit und Beweglichkeit deines Schiffs anbetrifft. Erhöht sich die Masse, verringert sich die Fähigkeit, die Flugrichtung schnell zu ändern. Dieser Umstand ist von größter Bedeutung für Piloten, die ihre Geschwindigkeit und Beweglichkeit maximieren möchten.
+
+
+
+
+CPU:
+Das Betreiben der Schiffskomponenten erfordert modernste Schaltkreistechnik und hochspezialisierten Software, die alle zusammen der Gruppe „Schiffs-Avioniksystem“ oder auch „Bordelektronik“ genannt, angehören. Diese "Pakete" bieten bessere Ziel-Identifizierung, erhöhte Radarreichweite, ITTS und viele andere Funktionen. Darüber hinaus erfordern manche Schiffs-Systeme Daten-Ressourcen für den ordnungsgemäßen Betrieb. Beispielsweise benötigt man für die beweglichen Klasse-2 Waffen die dazugehörige KI-Software für unbemannte Geschütze/Geschütztürme.
+
+
+
+
+
+Haltbarkeit & Belastbarkeit:
+Wie belastbar ein Teil oder Gerät gegenüber Beschädigungen ist, wird von großer Bedeutung für Piloten sein, die viel in feindlichen Gebieten unterwegs sind. Ein großer Schiffsreaktor mit viel Leistung ist nutzlos, wenn er bereits bei geringem Schaden ausfällt, oder wenn die erste feindliche Lasersalve durch das Schutzschild auf die Schiffshülle trifft...
+
+
+- Kosten und Verfügbarkeit
+Alle Teile im Spiel kosten Kredits, mit denen bezahlt wird, um sie zu kaufen, aber bloß das Geld zu haben, reicht nicht. Nicht alle Teile sind überall verfügbar, und sogar an Orten, an denen manche Dinge normalerweise verkauft werden, können sie mal nicht vorrätig sein, wenn die Versorgungskette zur Fabrik unterbrochen worden ist. Spieler werden weit reisen müssen, um alle Teile ausfindig zu machen, die sie installieren möchten.
+
+
+- Leistungstuning
+Am eigenen Schiff zu basteln ist für viele Leute von großem Interesse. Wir sehen das in der realen Welt: Es gibt riesige Communities rund um PC-Übertaktung und Auto-Bastler, die am Wochenende an ihrem Auto rumtunen. Diese Leute wollen auch das letzte Quäntchen Leistung aus ihrer Ausrüstung herausholen. Wir wissen, du willst alles aus deinem Schiff herausholen und bis ans Limit tunen (oder vielleicht auch etwas darüber) - also geben wir euch auch Systeme, mit denen ihr herumexperimentieren könnt.
+
+
+Alle Teile die vom Produktionsband laufen, werden innerhalb gewisser Fertigungstoleranzen hergestellt und funktionieren auch zuverlässig, wenn man sie innerhalb ihrer spezifizierten Soll-Betriebsparameter in Betrieb nimmt...
+Ihr wahres Potential kann dann vom Spieler entdeckt werden, wenn er das Risiko eingeht, das Teil zu Überanspruchen und somit einen Ausfall riskiert.
+Es kann verheerende Folgen nach sich ziehen, wenn man die Hardware zu sehr über ihre spezifizierten Soll-Parametern betreibt und selbst wenn man ein Teil erfolgreich getuned hat, wird es möglicherweise Energiehungriger sein und somit eine stärkere Radar-Signatur erzeugen!
+
+
+Das was du da tust ist das gleiche, wie das Übertakten von PC-Komponenten wie z.Bsp. der CPU, wie es von vielen erfahrenen PC-Enthusiasten gemacht wird!
+Die meisten Prozessoren, die Intel hergestellt hat, vertragen eine höhere (Prozessor-) Taktrate...
+...und Leute, die ihre Hardware ans Limit bringen wollen, übertakten ihre CPU Stück für Stück. Die Maximalgrenze ist unbekannt, aber – manchmal bringt ein Laser vielleicht 10% mehr Leistung, seltener 20% und es kann so kommen, dass dein übertakteter Laser nur noch extrem viel Hitze produziert oder sogar beschädigt wird!
+Wir gehen davon aus, dass einige Spieler fein abgestimmte, hochgetunte und getestete Komponenten-Upgrades entwickeln, die sie dann zu einem hohen Preis verkaufen...
+Das ist unser Equivalent zum Crafting-System eines MMO-Games, ohne die künstliche „Level-Mechanik“, die dich dabei außen vor lässt.
+
+
+
+
+Qualität der Teile:
+So wie es Unmengen Hersteller von Pistolen des Kaliber .45 in der echten Welt gibt, wird es im Star Citizen Universum ebenso viele Unternehmen und Firmen geben, die vergleichbare Teile und Geräte herstellen. Diese Produkte sind allerdings nicht alle von gleicher Qualität. Manche Hersteller sind für billige Massenprodukte bekannt, die für den kleinen Piloten-Gelbeutel, oder für Waffendealer, die einen lokalen Konflikt unterstützen wollen, herstellen.
+
+
+Die Regel ist – Billigware ist weniger effizient, von geringer Haltbarkeit und anfällig für Überhitzung, hat jedoch den Vorteil, dass sie nicht Kostspielig ist und daher sehr verbreitet.
+Die besseren Hersteller produzieren effizientere und Haltbarere Produkte zu einem überteuerten Preis - wobei die besten Produkte und Komponenten den UEE-Bürgern und dem Militär vorbehalten sind... oder man macht sich in die Grenzgebiete der Galaxie auf, um vielleicht das Wrack eines Alienschiffes zu finden!
+
+
+Spieler können sich einfach einen der gebräuchlichen Lasern greifen und damit sofort losballern, wobei andere wiederum Tage investieren um herauszufinden, welcher am besten zum Schiff passt und in welcher Kombination.
+Nehmen wir an, du willst deine Hornet in ein Tarnschiff umwandeln – dann versuchst du, wo es nur geht, Module mit geringstem Emissionsausstoß zu kaufen und einzubauen:
+Dünnere Schutzschilde, die nur eine geringe Energie-Signatur erzeugen, Laser, die eher wenig Schaden anrichten, dafür aber auch kaum Hitze ausstrahlen... Schubdüsen die nicht schnell beschleunigen können, dir dafür aber helfen, versteckt zu bleiben...
+
+
+Und dann kannst Du das noch in extreme treiben, was das Gameplay darüber hinaus noch antreibt – Vielleicht hörst du ja mal was von einer Firma auf Terra, die LE-Laser (Low Emmision - Laser mit niedriger Emmissionsrate) verkauft, deren Laserstärke auch noch mehr als genug für dich ist...
+Oder von einer Piratengruppe in Spider, die illegal gehackte Schutzschilde verkauft, die eine höhere Schutzschildstärke ohne höheren Emissionsaustoß bieten!
+Um dein perfektes Schiff zu erschaffen wirst du mehr Zeit auf Reisen im Universum verbringen, als im Hangar, um die Sachen dann zusammenzubauen...
+
+
+
+
+
+Teste dein Quipment:
+Eine wichtige Sache an diesem System ist, dass es kein Patentrezept gibt: Die Spezifikationen für den perfekten Laser wirst du nicht herausfinden, wenn du Dir nicht die Arbeit machst, die Grenzen des Lasers auszuloten. So wie du einen PC übertaktest oder ein Auto tune´st, spielt immer das gewisse Element des Zufalls mit – der Tuning-Versuch könnte fehlschlagen und du hast ein weiteres Teil, dass du erstmal wieder reparieren musst – und das willst du nicht gerade dann herausfinden, wenn du Nase an Nase einem Rudel Piraten gegenüberstehst...
+Um dem Vorzubeugen planen wir optionale Testgeräte für den Hangar, zum Testen und Übertakten der verschiedenen Systeme bereitzustellen, und auch ein par Extra-Goodies in der Bordelektronik, um die Performance zu überwachen und zu protokollieren.
+
+
+Später im All kann es dir die Haut retten, wenn du etwas Zeit und Geld investiert hast, und die übertakteten Schilde und die auf Maximale Feuerkraft getunten Laser zuvor auf dem Boden getestet hast!
+
+
+
+
+Gesetzmäßigkeit:
+Die UEE-Gerichtsbarkeit sind zu einem Teil die Polizeikräfte und zum anderen die Grenzwache, die mit der Aufrechthaltung der Sicherheit innerhalb des UEE-Raumes beauftragt sind.
+Um dies sicherzustellen, dürfen sie Gesetzmäßig Schiffe auf Schmuggelwaren oder Illegale Komponenten scannen. Viele der besten Schiffsteile sind den Bürgern der UEE vorbehalten, andere wiederum sind komplett verboten. Piloten, die denken, sie müssten die Gesetze in UEE-Gebiet missachten, werden mit einem Bußgeld belegt, ihre Schmuggelware konfisziert, oder auch möglicherweise von der Polizei in Ausübung ihrer Pflichten verfolgt oder angegriffen.
+
+
+
+
+
+
+
+Leitungsnetz:
+
+
+
+Das ist ja alles großartig, aber wie arbeiten diese Dinge mit- und untereinander?
+Wir erreichen dies mit verschiedenen Leitungen, die die Schiffssysteme miteinander verbinden.
+Die Energie-Leitung versorgt alle Systeme mit Energie, während die Datenleitung Daten mit anderen Schiffskomponenten austauscht. Zum Beispiel sendet der Schildgenerator Signale über die Datenleitung, sodaß die Schildstärke auf dem HUD angezeigt werden kann.
+Diese Leitungen können unterbrochen werden, was dann die unterschiedlichsten Auswirkungen haben kann! Wir möchten, dass es schon im Schiff aufregend zur Sache geht, nicht nur/erst in der weiteren Spielewelt – und ein vollkommen miteinander vernetztes System aus Schiffskomponenten macht dies möglich.
+Hier ist ein Beispiel, wie das Leitungsnetz grundsätzlich aufgebaut ist:
+
+
+RSI-Bild ´Systems_Table_2´
+Eingefügtes Bild
+
+
+
+
+All diese Details und Flexibilität ist großartig, wenn man sich darin eingearbeitet hat, aber was ist, wenn du einfach einsteigen und losfliegen willst, ohne groß Gedanken daran zu verlieren, wie weit dieses Konfigurationssystem geht? Kein Problem!
+Das tunen und konfigurieren ermöglicht es Dir, dein Schiff besser an deine Bedürfnisse anzupassen, du kannst aber auch genauso viel Spaß an dem Spiel haben, ohne an all möglichen Schrauben und Schiebern zu drehen...
+Nicht jeder möchte sich bis ins Detail mit den tiefgreifenden, komplexen Schiffssystemen befassen – manche möchten einfach nur im Cockpit des eigenen Schiffes sitzen, und Aliens und Piraten jagen. Diese Spielart werden wir definitiv ebenfalls anbieten!
+Von diesem Schiffs-Upgradesystem sind wir sehr begeistert, und das ist gerade mal die Spitze des Eisberges!
+Seid gespannt auf die kommenden Monate, um noch mehr Details zu erfahren!
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+Übersetzung: SpaceCrawler, www.star-citizen-hq.de
+Bildquelle: RSI Website
+Englischer Originalartikel: RSI-Website - Comm Link
